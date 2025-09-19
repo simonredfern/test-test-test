@@ -1,0 +1,62 @@
+{
+  "export_timestamp": "2025-09-18T14:51:37.610941",
+  "region": "Brandenburg, Germany",
+  "data_source": "Mock Weather Simulation",
+  "cities_included": 10,
+  "features": [
+    "current_weather",
+    "forecasts",
+    "air_quality",
+    "coordinates"
+  ],
+  "sample_city": {
+    "coord": {
+      "lon": 13.8217,
+      "lat": 52.8339
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.2,
+      "feels_like": 13.5,
+      "temp_min": 12.6,
+      "temp_max": 16.4,
+      "pressure": 1023,
+      "humidity": 69
+    },
+    "visibility": 8523,
+    "wind": {
+      "speed": 7.7,
+      "deg": 162
+    },
+    "clouds": {
+      "all": 23
+    },
+    "dt": 1758199897,
+    "sys": {
+      "type": 2,
+      "id": 2126138,
+      "country": "DE",
+      "sunrise": 1758172921,
+      "sunset": 1758214061
+    },
+    "timezone": 7200,
+    "id": 2997153,
+    "name": "Eberswalde",
+    "cod": 200,
+    "city_info": {
+      "lat": 52.8339,
+      "lon": 13.8217,
+      "name": "Eberswalde"
+    },
+    "fetch_time": "2025-09-18T14:51:37.610944",
+    "data_source": "mock_simulation"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "coord": {
+    "lon": 13.8217,
+    "lat": 52.8339
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 16.7,
+    "feels_like": 18.0,
+    "temp_min": 15.7,
+    "temp_max": 19.9,
+    "pressure": 1014,
+    "humidity": 72
+  },
+  "visibility": 8832,
+  "wind": {
+    "speed": 3.2,
+    "deg": 125
+  },
+  "clouds": {
+    "all": 92
+  },
+  "dt": 1758200173,
+  "sys": {
+    "type": 2,
+    "id": 2160087,
+    "country": "DE",
+    "sunrise": 1758170857,
+    "sunset": 1758215427
+  },
+  "timezone": 7200,
+  "id": 2959505,
+  "name": "Eberswalde",
+  "cod": 200,
+  "city_info": {
+    "lat": 52.8339,
+    "lon": 13.8217,
+    "name": "Eberswalde"
+  },
+  "fetch_time": "2025-09-18T14:56:13.884149",
+  "data_source": "mock_simulation"
+}
